@@ -57,3 +57,4 @@ minmax = ob.DACmaxmin(a,1,n);
     cout<<"\nMAX : \t"<< minmax[2]<<"\n"; 
 
 }
+/*Even though time complexity of StraightMaxMin and this algorithm is same,this algorithm takes little more time due to recursion more calls*/
